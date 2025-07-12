@@ -6,7 +6,7 @@ subtitle: <a href='#'>Duke University</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: pic2.jpg
+  image: pic2.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
