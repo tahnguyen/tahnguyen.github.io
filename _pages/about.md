@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate. <a href='https://scholars.duke.edu/person/trunganh.nguyen'>Duke University</a>
+subtitle: PhD Candidate. <a href='https://scholars.duke.edu/person/trunganh.nguyen'>Duke University.</a>
 
 profile:
-  align: right
+  align: left
   image: pic2.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
