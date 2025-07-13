@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Trung-Anh and I'm a PhD candidate in the Department of Political Science at Duke University with a focus on political institutions and methodology. My substantive research interests are on authoritarian politics, single-party regimes, and Southeast Asia. My various projects explore how institutional arrangement and political behaviors have shaped the variation in state capacity and durability among autocracies. 
+Hello! My name is Trung-Anh and I'm a PhD candidate in the Department of Political Science at Duke University with a focus on political institutions and methodology. My substantive research interests are on authoritarian politics, single-party regimes, and Southeast Asia. My various projects explore how institutional arrangements have shaped political behaviors and the variation in state capacity among autocracies. 
 
 Some of my academic work is published at the *Journal of Comments and Replications in Economics* and *Political Communications*. Before starting graduate school, I was a research associate for market research and political polling at EMC Research in Seattle, WA. I hold an M.A. in International Relations from the University of Chicago and a B.A. in Political Science from Bryn Mawr College.
 
