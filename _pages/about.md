@@ -9,7 +9,8 @@ profile:
   image: pic2.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>208 Gross Hall, Campus Box 90204</p>
+    <p>208 Gross Hall</p>
+    <p>Campus Box 90204</p>
     <p>140 Science Drive</p>
     <p>Durham, NC 27708</p>
 
