@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate. <a href='https://scholars.duke.edu/person/trunganh.nguyen'>Duke University.</a>
 
