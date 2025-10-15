@@ -18,10 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Please find my most updated CV here.",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/Nguyen_CV_Oct_2025.pdf";
           },
         },{id: "post-a-post-with-plotly-js",
         
