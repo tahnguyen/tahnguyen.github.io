@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/Nguyen_CV_Oct_2025.pdf";
+            window.location.href = "/assets/pdf/Academic_CV.pdf";
           },
         },{id: "post-a-post-with-plotly-js",
         
