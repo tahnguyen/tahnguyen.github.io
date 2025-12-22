@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /assets/pdf/Nguyen_CV_Oct_2025.pdf
+permalink: /assets/pdf/Academic_CV.pdf
+newtab: true
 title: CV
 nav: true
 nav_order: 5
