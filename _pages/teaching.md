@@ -1,13 +1,16 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Teaching experience, courses, and professional development.
+permalink: /Teaching/
+title: Teaching
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-## Teaching statement
+## Teaching Statement
+
+_(The tags used in this teaching statement are drawn from the [Professional Standards
+Framework for Teaching and Supporting Learning in Higher Education](https://advance-he.org/knowledge-hub/professional-standards-framework-teaching-and-supporting-learning-higher-education-0/)
+developed by Advance HE.)_
 
 ### Designing and Planning for Learning Activities
 
@@ -29,7 +32,7 @@ Instructor: Jiawei Fu
 
 **POLSCI 630: Probability and Basic Regression**  
 Duke University — Spring 2026
-Instructor: Jiawei Fu  
+Instructor: Jiawei Fu
 
 **POLSCI 630: Probability and Basic Regression**  
 Ralph Bunche Summer Institute 2025, 2026
