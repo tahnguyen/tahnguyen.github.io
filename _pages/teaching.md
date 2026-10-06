@@ -47,6 +47,16 @@ I am completing Duke's Certificate in College Teaching and earned the Certificat
 
 I have also mentored an incoming TA for a summer methods course. I shared my lab materials and R scripts, talked through how to structure a session, flagged the points in the syllabus where students predictably struggle, and discussed how to run a room where preparation varies widely. We debriefed after every session **[V5]**. Explaining my pacing decisions to someone else made me articulate choices I had been making by instinct, and I revised some of them in the process.
 
+### Integrate and Reflect
+
+What connects these practices is a view that learning methods means more than knowing the syntax: students also need to understand what a model is doing under the hood and how to interpret what it produces. That view shapes my materials, which leave gaps so students have to reason through each step rather than copy it. In lab, I walk through the reasoning behind each line; in office hours, I work from students' own code so they learn to find their own mistakes. It also shapes how I assess, asking students to interpret their models and explain their output, not just report it. I ask the same of my own teaching, treating student feedback as evidence to interpret: when it showed labs were too full, I changed them. Beyond any particular method, I want students to leave with the instinct to ask what their results actually show, and the persistence to keep going when the code fails, both of which independent research requires.
+
+### Looking Ahead
+
+I would like to design two courses of my own: (1) an undergraduate course on authoritarian politics, built on my research on single-party regimes and Southeast Asia; and (2) my own version of the first-year graduate course in probability and regression, for which I have led labs three times. I know where new students struggle, and I would build the course around what my labs already do: pairing each concept with its implementation in R and asking students to interpret a model, not just run it. I also want to learn how to design assessments that assume students have AI coding tools, asking them to explain and defend their code. After completing the Certificate in College Teaching, I plan to seek regular peer observation and keep sharing materials and approaches with other methods instructors, as I have with TAs in my department.
+
+
+
 
 ## Teaching experience
 
