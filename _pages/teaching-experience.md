@@ -7,11 +7,11 @@ nav: false
 
 ### Lab Instructor
 
-**[POLSCI 689L: Computational Methods in Social Sciences]**(https://jiaweifu.org/courses/)  
+[**POLSCI 689L: Computational Methods in Social Sciences**](https://jiaweifu.org/courses/)  
 Duke University, Fall 2026  
 Instructor: Jiawei Fu
 
-**[POLSCI 630: Probability and Basic Regression]**(https://jiaweifu.org/courses/)  
+[**POLSCI 630: Probability and Basic Regression**](https://jiaweifu.org/courses/)  
 Duke University, Spring 2026  
 Instructor: Jiawei Fu
 
@@ -33,7 +33,7 @@ Instructor: Daniel Stegmueller
 Duke University, Spring 2025  
 Instructor: Eddy Malesky
 
-**[Computational Methods for Social Scientists (R Bootcamp)]**(https://cm4ss.com/html/index.html#)  
+[**Computational Methods for Social Scientists (R Bootcamp)**](https://cm4ss.com/html/index.html#)  
 Duke University, Fall 2023–2026  
 Instructor: Nick Eubank
 
