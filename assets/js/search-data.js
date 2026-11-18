@@ -17,14 +17,14 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "dropdown-teaching-statement",
-              title: "teaching statement",
+              title: "Teaching Statement",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/teaching/statement/";
               },
             },{id: "dropdown-teaching-experience",
-              title: "teaching experience",
+              title: "Teaching Experience",
               description: "",
               section: "Dropdown",
               handler: () => {
