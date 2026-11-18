@@ -16,14 +16,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Teaching/";
-          },
-        },{id: "nav-cv",
+        },{id: "dropdown-teaching-statement",
+              title: "teaching statement",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/teaching/statement/";
+              },
+            },{id: "dropdown-teaching-experience",
+              title: "teaching experience",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/teaching/experience/";
+              },
+            },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
