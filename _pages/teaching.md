@@ -1,14 +1,14 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 nav: true
 nav_order: 4
 dropdown: true
 children:
-  - title: teaching statement
+  - title: Teaching Statement
     permalink: /teaching/statement/
   - title: divider
-  - title: teaching experience
+  - title: Teaching Experience
     permalink: /teaching/experience/
 ---
 

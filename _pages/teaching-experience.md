@@ -1,22 +1,20 @@
 ---
 layout: page
-title: teaching experience
+title: Teaching Experience
 permalink: /teaching/experience/
 nav: false
 ---
 
-## Teaching experience
-
 ### Lab Instructor
 
-**POLSCI 689L: Computational Methods in Social Sciences**  
+[**POLSCI 689L: Computational Methods in Social Sciences**](https://jiaweifu.org/courses/)  
 Duke University, Fall 2026  
 Instructor: Jiawei Fu
 
-**POLSCI 630: Probability and Basic Regression**  
+[**POLSCI 630: Probability and Basic Regression**](https://jiaweifu.org/courses/)  
 Duke University, Spring 2026  
 Instructor: Jiawei Fu
-
+[]
 **POLSCI 630: Probability and Basic Regression**  
 Ralph Bunche Summer Institute 2025, 2026  
 Instructor: Dave Siegel, Stephanie Wright
@@ -35,7 +33,7 @@ Instructor: Daniel Stegmueller
 Duke University, Spring 2025  
 Instructor: Eddy Malesky
 
-**Computational Methods for Social Scientists (R Bootcamp)**  
+[**Computational Methods for Social Scientists (R Bootcamp)**](https://cm4ss.com/html/index.html#)  
 Duke University, Fall 2023–2026  
 Instructor: Nick Eubank
 
